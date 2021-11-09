@@ -1,13 +1,13 @@
 ﻿#include <iostream>
 using namespace std;
 
-int inputArrInt(long long int i2, long long int j2)
+int inputArrInt(long double i2, long double j2)
 {
     double value;
 
     cin >> value;
 
-    while (cin.fail() || value != (int)value) {
+    while (cin.fail() || value != (double)value) {
         cout << "Ввод некорректен. Введите элемент [" << i2 + 1 << ", " << j2 + 1 << "] заново:\n";
 
         cin.clear();
@@ -22,7 +22,7 @@ int inputArrInt(long long int i2, long long int j2)
 int main()
 {
     setlocale(LC_ALL, "Russian");
-    long long int n, m, k;
+    long double n, m, k;
 
     int** arr1;
     int** arr2;
@@ -35,7 +35,7 @@ int main()
     while (cin.peek() == ' ')
         cin.ignore(1, ' ');
 
-    while (cin.fail() || cin.peek() != '\n' || k <= 0 || n <= 0 || m <= 0 || n != (long long int)n || m != (long long int)m || k != (long long int)k) {
+    while (cin.fail() || cin.peek() != '\n' || k <= 0 || n <= 0 || m <= 0 || n != (long double)n || m != (long double)m || k != (long double)k) {
         cout << "Ввод некорректен. Введите заново n, m и k (целые положительные числовые значение): ";
 
         cin.clear();
