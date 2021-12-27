@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿#include <iostream>
+=======
+#include <iostream>
+>>>>>>> f5bbb44505ed9c1c6a1b3198595284a844b50688
 #include <malloc.h>
 
 using namespace std;
