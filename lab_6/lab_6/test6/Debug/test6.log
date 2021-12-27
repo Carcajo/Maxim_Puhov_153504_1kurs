@@ -1,0 +1,25 @@
+﻿  test.cpp
+D:\max\lab_6\lab_6\test6\test.cpp(54,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\max\lab_6\lab_6\test6\test.cpp(58,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\max\lab_6\lab_6\test6\test.cpp(64,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\max\lab_6\lab_6\test6\test.cpp(207,6): warning C4101: bu: неиспользованная локальная переменная
+D:\max\lab_6\lab_6\test6\test.cpp(261,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\max\lab_6\lab_6\test6\test.cpp(263,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\max\lab_6\lab_6\test6\test.cpp(318,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\max\lab_6\lab_6\test6\test.cpp(349,17): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\test6\test.cpp(354,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\test6\test.cpp(366,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\test6\test.cpp(383,8): warning C4018: >: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\test6\test.cpp(405,12): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\test6\test.cpp(412,9): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\test6\test.cpp(423,8): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\test6\test.cpp(430,13): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\test6\test.cpp(445,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\test6\test.cpp(502,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\test6\test.cpp(506,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\test6\test.cpp(509,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\test6\test.cpp(513,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\test6\test.cpp(514,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\test6\test.cpp(518,54): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\test6\test.cpp(542,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  test6.vcxproj -> D:\max\lab_6\lab_6\Debug\test6.exe

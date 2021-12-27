@@ -1,0 +1,4 @@
+﻿  task_6.cpp
+D:\max\lab_6\lab_6\task_6\task_6.cpp(24,16): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\max\lab_6\lab_6\task_6\task_6.cpp(34,23): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  task_6.vcxproj -> D:\max\lab_6\lab_6\Debug\task_6.exe

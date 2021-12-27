@@ -1,0 +1,3 @@
+﻿  task_3.cpp
+D:\max\lab_6\lab_6\task_3\task_3.cpp(20,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  task_3.vcxproj -> D:\max\lab_6\lab_6\Debug\task_3.exe

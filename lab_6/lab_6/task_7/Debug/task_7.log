@@ -1,0 +1,7 @@
+﻿  task_7.cpp
+D:\max\lab_6\lab_6\task_7\task_7.cpp(10,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\task_7\task_7.cpp(10,44): warning C4018: >: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\task_7\task_7.cpp(20,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\task_7\task_7.cpp(30,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\task_7\task_7.cpp(44,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  task_7.vcxproj -> D:\max\lab_6\lab_6\Debug\task_7.exe

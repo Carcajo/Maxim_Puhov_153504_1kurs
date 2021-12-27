@@ -1,0 +1,3 @@
+﻿  LINK : не найден или не выполнена сборка D:\max\lab_5\lab_5\Debug\task1.exe при последней инкрементной компоновке; выполняется полная компоновка
+lib.lib(lib.obj) : warning LNK4099: "lib.pdb" PDB не найден с "lib.lib(lib.obj)" или на "D:\max\lab_5\lab_5\Debug\lib.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  task1.vcxproj -> D:\max\lab_5\lab_5\Debug\task1.exe

@@ -1,0 +1,26 @@
+﻿  task_9.cpp
+D:\max\lab_6\lab_6\task_9\task_9.cpp(10,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\task_9\task_9.cpp(10,49): warning C4018: >: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\task_9\task_9.cpp(28,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(29,33): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(31,16): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(36,16): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(41,24): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(42,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(49,13): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(49,49): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(52,25): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(55,37): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(61,14): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(61,36): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(61,74): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(61,95): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(61,129): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(61,151): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(61,185): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(66,14): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(70,19): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(74,15): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(78,25): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\max\lab_6\lab_6\task_9\task_9.cpp(79,27): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+  task_9.vcxproj -> D:\max\lab_6\lab_6\Debug\task_9.exe

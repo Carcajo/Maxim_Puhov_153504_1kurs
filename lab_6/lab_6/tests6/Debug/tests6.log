@@ -1,0 +1,12 @@
+﻿  test.cpp
+D:\max\lab_6\lab_6\tests6\test.cpp(40,2): error C2143: синтаксическая ошибка: отсутствие ")" перед "константа"
+D:\max\lab_6\lab_6\tests6\test.cpp(40,2): error C2660: WordFound: функция не принимает 1 аргументов
+D:\max\lab_6\lab_6\tests6\test.cpp(4,5): message : см. объявление "WordFound"
+D:\max\lab_6\lab_6\tests6\test.cpp(40,2): error C2660: testing::internal::EqHelper<false>::Compare: функция не принимает 3 аргументов
+D:\max\lab_6\lab_6\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.4\build\native\include\gtest\gtest.h(1481,26): message : см. объявление "testing::internal::EqHelper<false>::Compare"
+D:\max\lab_6\lab_6\tests6\test.cpp(40,2): error C2059: синтаксическая ошибка: константа
+D:\max\lab_6\lab_6\tests6\test.cpp(40,2): error C2059: синтаксическая ошибка: )
+D:\max\lab_6\lab_6\tests6\test.cpp(40,2): error C2181: недопустимый else без парного if
+D:\max\lab_6\lab_6\tests6\test.cpp(40,2): error C2065: gtest_ar: необъявленный идентификатор
+D:\max\lab_6\lab_6\tests6\test.cpp(40,2): error C2440: <function-style-cast>: невозможно преобразовать "initializer list" в "testing::internal::AssertHelper"
+D:\max\lab_6\lab_6\tests6\test.cpp(40,2): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно

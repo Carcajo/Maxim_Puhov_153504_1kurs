@@ -1,0 +1,20 @@
+﻿  task_4.cpp
+D:\max\lab_7\lab_7\task_4\task_4.cpp(38,7): error C3861: checkNumber: идентификатор не найден
+D:\max\lab_7\lab_7\task_4\task_4.cpp(47,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_7\lab_7\task_4\task_4.cpp(49,9): error C3861: findValue: идентификатор не найден
+D:\max\lab_7\lab_7\task_4\task_4.cpp(84,117): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\max\lab_7\lab_7\task_4\task_4.cpp(95,2): error C3861: reverseStr: идентификатор не найден
+D:\max\lab_7\lab_7\task_4\task_4.cpp(102,2): error C3861: convertBinariesInReverseCode: идентификатор не найден
+D:\max\lab_7\lab_7\task_4\task_4.cpp(115,2): error C3861: addZeroes: идентификатор не найден
+D:\max\lab_7\lab_7\task_4\task_4.cpp(116,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_7\lab_7\task_4\task_4.cpp(136,2): error C3861: convertBinariesInReverseCode: идентификатор не найден
+D:\max\lab_7\lab_7\task_4\task_4.cpp(144,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_7\lab_7\task_4\task_4.cpp(159,2): error C3861: reverseStr: идентификатор не найден
+D:\max\lab_7\lab_7\task_4\task_4.cpp(160,2): error C3861: reverseStr: идентификатор не найден
+D:\max\lab_7\lab_7\task_4\task_4.cpp(162,41): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_7\lab_7\task_4\task_4.cpp(167,40): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_7\lab_7\task_4\task_4.cpp(193,2): error C3861: reverseStr: идентификатор не найден
+D:\max\lab_7\lab_7\task_4\task_4.cpp(201,41): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_7\lab_7\task_4\task_4.cpp(206,40): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_7\lab_7\task_4\task_4.cpp(227,2): error C3861: reverseStr: идентификатор не найден
+D:\max\lab_7\lab_7\task_4\task_4.cpp(232,20): warning C4018: <: несоответствие типов со знаком и без знака

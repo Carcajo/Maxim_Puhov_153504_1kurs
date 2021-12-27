@@ -1,0 +1,6 @@
+﻿  task_8.cpp
+D:\max\lab_6\lab_6\task_8\task_8.cpp(10,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\task_8\task_8.cpp(10,44): warning C4018: >: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\task_8\task_8.cpp(34,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\max\lab_6\lab_6\task_8\task_8.cpp(54,20): warning C4018: <: несоответствие типов со знаком и без знака
+  task_8.vcxproj -> D:\max\lab_6\lab_6\Debug\task_8.exe
