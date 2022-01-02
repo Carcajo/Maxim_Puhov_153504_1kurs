@@ -1,3 +1,4 @@
+РўРµСЃС‚С‹. Р’С‹РїРѕР»РЅРёР» РџСѓС…РѕРІ Рњ.Р®
 #include "pch.h"
 #include <cmath>
 #include <iostream>
@@ -13,7 +14,7 @@ int task1(char s1[81], int mas) {
 		if (s1[y] == '\0') break;
 		s[y] = s1[y];
 	}
-	//замена "лишнего" на пробел
+	//Г§Г Г¬ГҐГ­Г  "Г«ГЁГёГ­ГҐГЈГ®" Г­Г  ГЇГ°Г®ГЎГҐГ«
 	for (i = 0; i < 80; i++)
 		if ((s[i] < '0' || s[i] > '9') && s[i] != '-')
 			s[i] = ' ';
@@ -49,7 +50,7 @@ int task1(char s1[81], int mas) {
 		i += u + 1;
 	}
 
-	//сортировка
+	//Г±Г®Г°ГІГЁГ°Г®ГўГЄГ 
 	for (i = 0; i < w; i++) {
 		min = r[i];
 		q1 = i;
@@ -85,7 +86,7 @@ int task2(char s1[81]) {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	int w = 1, gl_ = 0, sog = 0, gh = 0;
-	char gl[21] = "аиеёоуыэюяАИЕЁОУЫЭЮЯ";
+	char gl[21] = "Г ГЁГҐВёГ®ГіГ»ГЅГѕГїГЂГ€Г…ВЁГЋГ“Г›ГќГћГџ";
 
 	char* s = (char*)malloc(w * sizeof(char));
 	while (s[gh - 1] != '\0') {
@@ -99,7 +100,7 @@ int task2(char s1[81]) {
 				gl_++;
 				break;
 			}
-		if (s[i] >= 'а' && s[i] <= 'я' || s[i] >= 'А' && s[i] <= 'Я') sog++;
+		if (s[i] >= 'Г ' && s[i] <= 'Гї' || s[i] >= 'ГЂ' && s[i] <= 'Гџ') sog++;
 	}
 	sog -= gl_;
 	int ret;
@@ -110,17 +111,17 @@ int task2(char s1[81]) {
 }
 
 TEST(TestTask2, Test1) {
-	EXPECT_EQ(task2("цуцуцуц"), 0);
+	EXPECT_EQ(task2("Г¶ГіГ¶ГіГ¶ГіГ¶"), 0);
 	EXPECT_TRUE(true);
 }
 
 TEST(TestTask2, Test2) {
-	EXPECT_EQ(task2("цуцуууууцц"), 1);
+	EXPECT_EQ(task2("Г¶ГіГ¶ГіГіГіГіГіГ¶Г¶"), 1);
 	EXPECT_TRUE(true);
 }
 
 TEST(TestTask2, Test3) {
-	EXPECT_EQ(task2("цуцу534534цц"), 0);
+	EXPECT_EQ(task2("Г¶ГіГ¶Гі534534Г¶Г¶"), 0);
 	EXPECT_TRUE(true);
 }
 
@@ -162,17 +163,17 @@ int task3(char s1[81]) {
 }
 
 TEST(TestTask3, Test1) {
-	EXPECT_EQ(task3("ывы"), 1);
+	EXPECT_EQ(task3("Г»ГўГ»"), 1);
 	EXPECT_TRUE(true);
 }
 
 TEST(TestTask3, Test2) {
-	EXPECT_EQ(task3("вап4пав"), 1);
+	EXPECT_EQ(task3("ГўГ ГЇ4ГЇГ Гў"), 1);
 	EXPECT_TRUE(true);
 }
 
 TEST(TestTask3, Test3) {
-	EXPECT_EQ(task3("ывкы"), 0);
+	EXPECT_EQ(task3("Г»ГўГЄГ»"), 0);
 	EXPECT_TRUE(true);
 }
 
@@ -299,7 +300,7 @@ int task6(string st) {
 	char min;
 
 	d = st.length();
-	//сортировка
+	//Г±Г®Г°ГІГЁГ°Г®ГўГЄГ 
 	for (int i = 0; i < d; i++) {
 		min = st[i];
 		q1 = i;
@@ -498,7 +499,7 @@ int task9(string s) {
 	int i, u, q, g, o = 1;
 	double sum, t, sum1 = 0;
 
-	//замена "лишнего" на пробел
+	//Г§Г Г¬ГҐГ­Г  "Г«ГЁГёГ­ГҐГЈГ®" Г­Г  ГЇГ°Г®ГЎГҐГ«
 	for (i = 0; i < s.length(); i++)
 		if ((s[i] < '0' || s[i] > '9') && s[i] != '-')
 			s[i] = ' ';
