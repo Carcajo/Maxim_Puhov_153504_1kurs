@@ -1,4 +1,8 @@
-﻿#include <iostream>
+/*Лабораторная работа №5, задание dop_1. Выполнил Пухов М.Ю.
+По заданным p и q необходимо вычислить S (p, q).
+*/
+
+#include <iostream>
 #include <cmath>
 
 using namespace std;
