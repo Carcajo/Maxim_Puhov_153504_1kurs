@@ -1,4 +1,8 @@
-﻿#include <iostream>
+/*Лабораторная работа №5, задание dop_2. Выполнил Пухов М.Ю.
+Вычислить значение, где m = 10t.
+*/
+
+#include <iostream>
 
 using namespace std;
 
